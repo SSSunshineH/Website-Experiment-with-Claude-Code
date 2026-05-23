@@ -4,6 +4,8 @@ This is a personal website created as an experiment using Claude Code.
 
 The design direction and aesthetic choices were based on my own preferences and visual style. However, the actual implementation (HTML/CSS/structure) was primarily generated and assisted by Claude Code.
 
+## Live Site
+https://sssunshineh.github.io/Website-Experiment-with-Claude-Code/
 
 
 ---
